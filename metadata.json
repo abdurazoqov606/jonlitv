@@ -1,0 +1,6 @@
+{
+  "name": "Jonli TV",
+  "description": "Premium Jonli TV translyatsiyalari, teleko'rsatuvlar va milliy kanallar platformasi. Asoschi Abdurazakov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
